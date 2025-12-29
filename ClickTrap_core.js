@@ -57,3 +57,4 @@ console.log(
     "You will get money urgently. Account blocked. Click here http://fake.link"
   )
 );
+module.exports={analyzeClickTrap};
